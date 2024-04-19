@@ -4,9 +4,9 @@ import replicate
 import time
 import os
 from PIL import Image
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 # Load environment variables
-load_dotenv()
+#load_dotenv()
 
 
 # Initialize debounce variables
