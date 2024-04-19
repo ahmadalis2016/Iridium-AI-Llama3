@@ -7,7 +7,7 @@ Welcome to the Llama 3 Chatbot, a conversational AI powered by the open-source L
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iridium-ai-llama3.streamlit.app/)
 
 ## Prerequisite libraries
 
