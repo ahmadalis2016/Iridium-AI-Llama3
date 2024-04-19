@@ -4,7 +4,7 @@ import replicate
 import time
 import os
 from PIL import Image
-from dotenv import load_dotenv
+import load_dotenv
 # Load environment variables
 load_dotenv()
 
